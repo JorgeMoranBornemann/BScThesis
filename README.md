@@ -1,6 +1,6 @@
 # BScThesis
 
-This repository provides all the data and analysis tools used in the thesis project “Investigating the permafrost thaw response to temperature with varying soil characteristics”, authored by Jorge Moran Bornemann and supervised by Runa Magnusson. 
+This repository contains all the data and analysis tools used in the thesis project “Investigating the permafrost thaw response to temperature with varying soil characteristics”, authored by Jorge Moran Bornemann and supervised by Runa Magnusson. 
 
 The folder ‘Datasets’ contains all raw data and datasets used in the analysis, as well as any derived products. 
 
