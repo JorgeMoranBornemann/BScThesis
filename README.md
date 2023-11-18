@@ -12,4 +12,5 @@ For questions about the notebook, raw BD/SOC data, or the specific thesis projec
 For questions about the datasets and overarching project, contact Runa Magnuson. 
 
 Jorge Moran Bornemann, jorge.moranbornemann@wur.nl
+
 Runa Magnuson, runa.magnuson@wur.nl
