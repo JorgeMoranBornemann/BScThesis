@@ -108,7 +108,6 @@ Location,Sample,Bulk Density [kg/m3],SOM [%],Moss Layer [cm],Aditional Comments
 5,5X8,NaN,36.1888,NaN,NaN 
 5,5X9,NaN,35.7361,NaN,NaN 
 5,5X10,NaN,51.8200,NaN,NaN 
-Begin sample replicates   , NaN, NaN, NaN, NaN, NaN
 1,1C2,NaN,7.3970,NaN,NaN 
 1,1C2,NaN,7.5581,NaN,NaN 
 1,1C2,NaN,7.5237,NaN,NaN 
@@ -139,7 +138,6 @@ Begin sample replicates   , NaN, NaN, NaN, NaN, NaN
 5,5X24,NaN,NaN,NaN,NaN 
 5,5X25,NaN,NaN,NaN,NaN 
 5,5X26,NaN,NaN,NaN,NaN 
-Missing samples  , NaN, NaN, NaN, NaN, NaN
 3,3I4,NaN,NaN,4,too gravely to sample 
 3,3I5,NaN,NaN,3.5,too gravely to sample 
 4,4C3,NaN,NaN,3,too gravely to sample 
