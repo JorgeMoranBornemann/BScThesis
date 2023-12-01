@@ -66,11 +66,11 @@ location,treatment,sample,BD,SOM,MossLayer,AdditionalComments
 1,I,1I6,897.7,7.6467,1,NaN 
 1,I,1I7,833.2,9.9752,2,NaN 
 2,C,2C1,512,20.2545,0,NaN 
-2,C,2C6 (17),374,23.9559,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+2,C,2C2 (17),374,23.9559,0,sampled below organic litter and tiny bits of moss (negligible depth) corresponds to sample 2C6 (17)
 2,C,2C3,516.4,19.3862,0,sampled below organic litter and tiny bits of moss (negligible depth) 
 2,C,2C4,366.7,24.4554,0,sampled below organic litter and tiny bits of moss (negligible depth) 
 2,C,2C5,502.2,21.8214,0,NaN 
-2,C,2C6 (21),477.8,21.9428,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+2,C,2C6,477.8,21.9428,0,sampled below organic litter and tiny bits of moss (negligible depth) corresponds to sample 2C6 (21)
 2,C,2C7,557.6,19.8541,0,NaN 
 2,I,2I1,466,20.1794,0,NaN 
 2,I,2I2,472.9,22.5991,0,sampled below organic litter and tiny bits of moss (negligible depth) 
