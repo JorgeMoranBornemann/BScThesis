@@ -1,4 +1,4 @@
-Location,Treatment,Sample,Bulk Density [kg/m3],SOM [%],Moss Layer [cm],Additional Comments 
+location,treatment,sample,BD,SOM,MossLayer,AdditionalComments 
 5,C,5X13,926.9,40.2074,NaN,NaN 
 5,C,5X14,459.4,43.3569,NaN,NaN 
 5,C,5X15,937.8,26.8436,NaN,NaN  
