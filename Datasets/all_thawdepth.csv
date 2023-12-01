@@ -1,4 +1,4 @@
-Location,Treatment,Pair,Plot,Point,Date,Year,DOY,CumLS2022,CumES2023,CumLS2023,TD [cm],Note
+location,treatment,pair,plot,point,date,year,DOY,CumLS2022,CumES2023,CumLS2023,TD [cm],Note
 1,C,1,1C1,A,21/07/2022,2022,202,0,0,0,79,
 1,C,1,1C1,C,21/07/2022,2022,202,0,0,0,78,
 1,C,1,1C1,E,21/07/2022,2022,202,0,0,0,73,
