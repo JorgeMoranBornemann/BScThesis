@@ -1,0 +1,147 @@
+location,treatment,pair,plot,sample_replicate,BD,SOM,MossLayer,AdditionalComments
+5,LS,4,5LS4,1,798.7171,40.2074,NaN,NaN 
+5,ES,4,5ES4,1,419.292,43.3569,NaN,NaN 
+5,LS,2,5LS2,1,807.9734,26.8436,NaN,NaN  
+5,LS,1,5LS1,1,568.6911,49.6908,NaN,NaN 
+5,ES,5,5ES5,1,522.8158,62.5511,NaN,NaN 
+5,LS,5,5LS5,1,515.9143,57.0563,NaN,NaN 
+5,ES,1,5ES1,1,629.6687,51.1736,NaN,NaN 
+5,ES,2,5ES2,1,646.9633,40.0937,NaN,NaN 
+5,LS,3,5LS3,1,624.797,38.1005,NaN,NaN 
+5,ES,3,5ES3,1,574.05,45.3713,NaN,NaN 
+5,LS,6,5LS6,1,747.2394,45.7372,NaN,NaN 
+5,ES,6,5ES6,1,704.5307,59.0247,NaN,NaN 
+1,ES,1,1ES1,1,1091.8,9.06,NaN,NaN 
+1,ES,2,1ES2,1,822.4,7.6618,NaN,NaN 
+1,ES,3,1ES3,1,920,6.7898,NaN,NaN 
+1,ES,4,1ES4,1,722.7,9.46,NaN,NaN 
+1,ES,5,1ES5,1,781.6,9.2698,NaN,NaN 
+1,ES,6,1ES6,1,840.5,9.509,NaN,NaN 
+1,ES,7,1ES7,1,856.2,7.9782,NaN,NaN 
+1,LS,1,1LS1,1,754.5,9.2655,NaN,NaN 
+1,LS,2,1LS2,1,952.3,7.5119,NaN,NaN 
+1,LS,3,1LS3,1,886.8,7.9082,NaN,NaN 
+1,LS,4,1LS4,1,971.8,6.9033,NaN,NaN 
+1,LS,5,1LS5,1,676.5,10.6883,NaN,NaN 
+1,LS,6,1LS6,1,694.9,10.066,NaN,NaN 
+1,LS,7,1LS7,1,811.4,8.0929,NaN,NaN 
+2,ES,1,2ES1,1,442.1,21.0424,NaN,NaN 
+2,ES,2,2ES2,1,335.9,26.1456,NaN,NaN 
+2,ES,3,2ES3,1,401.6,19.5631,NaN,NaN 
+2,ES,4,2ES4,1,336.2,19.0436,NaN,NaN 
+2,ES,5,2ES5,1,314.4,24.1922,NaN,NaN 
+2,ES,6,2ES6,1,451.7,21.4677,NaN,NaN 
+2,ES,7,2ES7,1,323.3,26.0836,NaN,NaN 
+2,LS,1,2LS1,1,543.4,18.2369,NaN,NaN 
+2,LS,2,2LS2,1,338.9,23.549,NaN,NaN 
+2,LS,3,2LS3,1,443.5,20.3293,NaN,NaN 
+2,LS,4,2LS4,1,295.3,26.9348,NaN,NaN 
+2,LS,5,2LS5,1,524.7,19.9553,NaN,NaN 
+2,LS,6,2LS6,1,267.7,29.5452,NaN,NaN 
+2,LS,7,2LS7,1,469.2,19.0206,NaN,NaN 
+4,ES,1,4ES1,1,998.6,6.1565,NaN,NaN 
+4,ES,2,4ES2,1,944.7,8.3636,NaN,NaN 
+4,ES,3,4ES3,1,506.4,11.7927,NaN,NaN 
+4,ES,4,4ES4,1,509.5,15.6666,NaN,NaN 
+4,ES,5,4ES5,1,740.5,7.535,NaN,NaN 
+4,ES,6,4ES6,1,436,19.8797,NaN,NaN 
+4,LS,1,4LS1,1,607.7,8.1365,NaN,NaN 
+4,LS,2,4LS2,1,483.1,15.5528,NaN,NaN 
+4,LS,3,4LS3,1,1027.2,7.282,NaN,NaN 
+4,LS,4,4LS4,1,424.9,13.5616,NaN,NaN 
+4,LS,5,4LS5,1,1121,4.8305,NaN,NaN 
+4,LS,6,4LS6,1,1140.1,9.1809,NaN,NaN 
+1,C,1,1C1,1,779.4,9.1521,2.1,NaN 
+1,C,2,1C2,1,1023.1,7.5132,0,NaN 
+1,C,3,1C3,1,1333.4,4.4193,0,NaN 
+1,C,4,1C4,1,784.6,9.9543,3.2,NaN 
+1,C,5,1C5,1,890.6,8.256,0,NaN 
+1,C,6,1C6,1,853.7,10.5625,0.25,NaN 
+1,C,7,1C7,1,1057.1,7.2112,0,NaN 
+1,I,1,1I1,1,1003.6,7.9614,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+1,I,2,1I2,1,1100.9,6.1946,0,NaN 
+1,I,3,1I3,1,1306.4,5.1076,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+1,I,4,1I4,1,782.4,11.1656,2.8,sampled below organic litter and tiny bits of moss (negligible depth) 
+1,I,5,1I5,1,1025.4,9.8905,2,NaN 
+1,I,6,1I6,1,897.7,7.6467,1,NaN 
+1,I,7,1I7,1,833.2,9.9752,2,NaN 
+2,C,1,2C1,1,512,20.2545,0,NaN 
+2,C,2,2C2,1,374,23.9559,0,sampled below organic litter and tiny bits of moss (negligible depth) also labeled as 2C6 (17)
+2,C,3,2C3,1,516.4,19.3862,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+2,C,4,2C4,1,366.7,24.4554,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+2,C,5,2C5,1,502.2,21.8214,0,NaN 
+2,C,6,2C6,1,477.8,21.9428,0,sampled below organic litter and tiny bits of moss (negligible depth) also labeled as 2C6 (21)
+2,C,7,2C7,1,557.6,19.8541,0,NaN 
+2,I,1,2I1,1,466,20.1794,0,NaN 
+2,I,2,2I2,1,472.9,22.5991,0,sampled below organic litter and tiny bits of moss (negligible depth) 
+2,I,3,2I3,1,183.9,30.1774,0,NaN 
+2,I,4,2I4,1,355,24.4202,0,NaN 
+2,I,5,2I5,1,329.1,26.3902,0,NaN 
+2,I,6,2I6,1,127.8,43.8451,0,NaN 
+2,I,7,2I7,1,448.5,21.4006,0,NaN 
+3,C,1,3C1,1,983.2,9.2926,6,NaN 
+3,C,2,3C2,1,1083.7,5.7425,4,NaN 
+3,C,3,3C3,1,754.3,10.8545,3,NaN 
+3,C,4,3C4,1,1287.3,6.747,2.5, gravely and may be disturbed
+3,C,5,3C5,1,1272.8,4.3998,4,NaN 
+3,C,6,3C6,1,1051.2,11.2777,5, sample may be a bit disturbed 
+3,I,1,3I1,1,816.7,11.6981,3,NaN 
+3,I,2,3I2,1,860.9,9.089,0.5,Sparse moss layer 
+3,I,3,3I3,1,648.6,12.5362,4,NaN 
+3,I,6,3I6,1,321.3,19.4863,1.5,NaN 
+4,C,1,4C1,1,819.7,12.6412,3.5,NaN 
+4,C,2,4C2,1,683.9,11.0448,4,NaN 
+4,C,4,4C4,1,600.3,13.3721,13,NaN 
+4,C,6,4C6,1,807,9.5011,7,NaN 
+4,I,1,4I1,1,955,7.4336,3,NaN 
+4,I,2,4I2,1,614.2,14.6801,1,NaN 
+4,I,3,4I3,1,748,7.2854,3,NaN 
+4,I,4,4I4,1,774,9.8398,3.5, may be disturbed 
+4,I,5,4I5,1,1352.1,4.0966,6, may be disturbed 
+5,I,4,5I4,1,457.4443,77.3721,NaN,NaN 
+5,C,4,5C4,1,422.7445,41.5522,NaN,NaN 
+5,C,2,5I2,1,531.5245,37.2674,NaN,NaN 
+5,C,1,5C1,1,395.979,52.5147,NaN,NaN 
+5,C,1,5I1,1,502.3381,42.8192,NaN,NaN 
+5,C,2,5C2,1,461.9998,47.6096,NaN,NaN 
+5,C,3,5I3,1,401.4143,54.953,NaN,NaN 
+5,C,3,5C3,1,570.7322,36.1888,NaN,NaN 
+5,C,6,5C6,1,394.7081,35.7361,NaN,NaN 
+5,C,6,5I6,1,365.2333,51.82,NaN,NaN 
+1,C,2,1C2,2,NaN,7.397,NaN,NaN 
+1,C,2,1C2,3,NaN,7.5581,NaN,NaN 
+1,C,2,1C2,4,NaN,7.5237,NaN,NaN 
+1,C,2,1C2,5,NaN,7.0948,NaN,NaN 
+1,C,2,1C2,6,NaN,7.484,NaN,NaN 
+1,C,2,1C2,7,NaN,7.545,NaN,NaN 
+2,C,4,2C4,2,NaN,23.3892,NaN,NaN 
+2,C,4,2C4,3,NaN,24.4625,NaN,NaN 
+2,C,4,2C4,4,NaN,22.0296,NaN,NaN 
+2,C,4,2C4,5,NaN,22.8899,NaN,NaN 
+2,C,4,2C4,6,NaN,28.5872,NaN,NaN 
+2,C,4,2C4,7,NaN,23.0684,NaN,NaN 
+3,C,1,3C1,2,NaN,7.3317,NaN,NaN 
+3,C,1,3C1,3,NaN,7.6667,NaN,NaN 
+3,C,1,3C1,4,NaN,6.9237,NaN,NaN 
+3,C,1,3C1,5,NaN,7.3404,NaN,NaN 
+3,C,1,3C1,6,NaN,7.6604,NaN,NaN 
+3,C,1,3C1,7,NaN,7.4554,NaN,NaN 
+4,C,1,4C1,2,NaN,9.9623,NaN,NaN 
+4,C,1,4C1,3,NaN,9.9662,NaN,NaN 
+4,C,1,4C1,4,NaN,10.1296,NaN,NaN 
+4,C,1,4C1,5,NaN,10.7032,NaN,NaN 
+4,C,1,4C1,6,NaN,10.3116,NaN,NaN 
+4,C,1,4C1,7,NaN,9.8787,NaN,NaN 
+5,C,3,5LS3,2,NaN,37.9918,NaN,NaN 
+5,C,3,5LS3,3,NaN,35.0235,NaN,NaN 
+5,C,3,5LS3,4,NaN,38.6775,NaN,NaN 
+5,C,3,5LS3,5,NaN,37.9745,NaN,NaN 
+5,C,3,5LS3,6,NaN,38.4598,NaN,NaN 
+5,C,3,5LS3,7,NaN,39.7032,NaN,NaN 
+3,I,4,3I4,NaN,NaN,NaN,4,too gravely to sample 
+3,I,5,3I5,NaN,NaN,NaN,3.5,too gravely to sample 
+4,C,3,4C3,NaN,NaN,NaN,3,too gravely to sample 
+4,C,5,4C5,NaN,NaN,NaN,4,too gravely to sample 
+4,I,6,4I6,NaN,NaN,NaN,5,too gravely to sample 
+5,C,5,5X5,NaN,NaN,NaN,NaN,too gravely to sample 
+5,C,6,5X6,NaN,NaN,NaN,NaN,too gravely to sample 
