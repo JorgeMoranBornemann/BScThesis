@@ -1,4 +1,4 @@
-location,treatment,pair,plot,sample_replicate,BD,SOM,MossLayer,AdditionalComments
+location,treatment,pair,plot,sample_replicate,BD,OM,MossLayer,AdditionalComments
 5,LS,4,5LS4,1,798.7171,40.2074,NaN,NaN 
 5,ES,4,5ES4,1,419.292,43.3569,NaN,NaN 
 5,LS,2,5LS2,1,807.9734,26.8436,NaN,NaN  
